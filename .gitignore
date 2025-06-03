@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+venv-gpu/
+
+# Jupyter Notebook Checkpoints
+*.ipynb_checkpoints
+
+# Logs and debug output
+*.log
+
+# Input / Output Videos
+input-videos/
+output-videos/
+*.mp4
+*.avi
+
+# Model files
+models/*.pt
+models/*.onnx
+
+# YOLO Inference and training runs
+runs/
+
+# Pickle files and intermediate data
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Secrets and env configs
+.env
+
+# Training artifacts
+training/
