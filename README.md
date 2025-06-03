@@ -29,7 +29,7 @@ This project uses computer vision and deep learning to analyze football match vi
  
 ---
 
-## 🔗 Sampple video link
+## 🔗 Sample video link
 
 https://www.kaggle.com/datasets/saberghaderi/-dfl-bundesliga-460-mp4-videos-in-30sec-csv?resource=download
 
