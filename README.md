@@ -26,6 +26,12 @@ This project uses computer vision and deep learning to analyze football match vi
   - numpy
   - matplotlib
   - pandas
+ 
+---
+
+## 🔗 Sampple video link
+
+https://www.kaggle.com/datasets/saberghaderi/-dfl-bundesliga-460-mp4-videos-in-30sec-csv?resource=download
 
 Install all dependencies using:
 
